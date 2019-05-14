@@ -39,6 +39,8 @@ public class Controller {
 
 
 
+
+        //==================asd
         //2
         ResponseEntity<ZZObj> forEntity2 =
                 restTemplate.getForEntity("http://localhost:8099/te/st12", ZZObj.class);
